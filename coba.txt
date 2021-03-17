@@ -2,3 +2,8 @@ Nama Buah Buahan
 1. Apel
 2. Mangga
 3. Durian
+---------------
+Harga Buah
+1. Apel = 2000
+2. Mangga = 10000
+3. Durian = 50000
