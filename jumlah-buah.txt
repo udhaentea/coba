@@ -1,3 +1,4 @@
 Jumlah Buah buahan tersedia
 1. Apel : 8
 2. Mangga : 12
+3. Durian : 7
